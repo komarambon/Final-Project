@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.carousel-inner {
+  height: 500px; }
+  .carousel-inner img {
+    height: 100%;
+    background-size: cover; }
+
+#konten {
+  padding: 60px 0px;
+  text-align: center; }
+  #konten h2 {
+    padding: 20px 0; }
+  #konten .info {
+    padding: 5px 10px;
+    background: #fafafa; }
+  #konten h1 {
+    text-align: center;
+    margin-bottom: 50px; }
+  .product {
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #fff;
+    border-radius: 11px;
+    padding: 20px;
+    text-align: center;}
+  #konten img {
+    width: 100%;
+    height: 300px; }
+  #konten .more {
+    text-align: center;
+    margin-top: 80px; }
+    #konten .more .morebtn {
+      padding: 20px 70px;
+      background: #000000;
+      color: #f0f0f0;
+      cursor: pointer; }
+
+#lokasi {
+  background: #fafafa;
+  padding: 150px; }
+  #lokasi h1 {
+    text-align: center;
+    margin-bottom: 50px; }
+  #lokasi .map {
+    margin-top: 50px;
+    margin-top: 50px; }
+  #lokasi img {
+    width: 100%;
+    margin-top: 50px; }
+
+#pesan {
+  background: #fafafa;
+  padding: 50px; }
+  #pesan h1 {
+    text-align: center;
+    margin-bottom: 50px; }
+  #pesan form {
+    background: #f0f0f0;
+    padding: 50px; }
+  #pesan .submit {
+    text-align: center;
+    margin-top: 50px; }
+    #pesan .submit button {
+      padding: 10px 30px; }
+
+footer {
+  background: #000000;
+  padding: 25px;
+  text-align: center;
+  color: #fff; }
+
+#menu {
+  padding: 70px 0px;
+  text-align: center; }
+  #menu h1 {
+    margin-bottom: 30px; }
+  #menu img {
+    width: 100%;
+    height: 300px; }
+  #menu .col-md-4 {
+    margin-bottom: 20px; }
+
+/*# sourceMappingURL=style.css.map */
